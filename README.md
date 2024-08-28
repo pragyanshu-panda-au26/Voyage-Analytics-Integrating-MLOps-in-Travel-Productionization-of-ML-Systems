@@ -49,7 +49,7 @@ Price Prediction: http://localhost:8080/predict/price
 Access the Prediction Models
 The trained prediction models are also available for download. You can access them via the following link:
 
-Download Prediction Models from Google Drive
+[Download Prediction Models from Google Drive](https://drive.google.com/drive/u/1/folders/1udEOzCpI2D3MMcg9p4uNP6iZUwK1eiG3)
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
@@ -57,5 +57,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Acknowledgments
 We extend our gratitude to the contributors and the open-source community for providing the tools and frameworks that made this project possible.
 
-Contact
+Contact - hello@pragcodes.co
 For any inquiries or issues, please feel free to open an issue in this repository or contact the project maintainers.
